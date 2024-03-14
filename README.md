@@ -54,8 +54,8 @@ Welcome to SmsSender Bot !!
     ```python
 
     sender.sendsms({
-      to: 'receiver umber',
-      from: Sender ID',
+      to: 'receivers number',
+      from: 'Sender ID',
       text: 'This is a test sms sent from EmailSender Bot.',
     });
     ```
